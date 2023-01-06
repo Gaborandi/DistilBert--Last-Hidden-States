@@ -6,3 +6,5 @@ i used this refrence from Jay Alammar : https://colab.research.google.com/github
 in this code , i save the output as pickle file so it can be used again for down stream task, this should make it easier and faster 
 
 you can switch between DistilBert and Bert models 
+
+for text classification purpose, if you will use LHS as your input, you will need only to use any machine learning classifier and no need to use transformers 
